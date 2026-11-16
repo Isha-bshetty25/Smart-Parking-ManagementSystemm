@@ -1,3 +1,3 @@
 ## Smart Parking System Diagram
 
-![Smart Parking Diagram](SPS.png)
+![Smart Parking Diagram](SPS.mdj)
